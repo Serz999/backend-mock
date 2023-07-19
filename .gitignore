@@ -1,0 +1,13 @@
+**/.vscode
+
+**/build*
+
+**/*.env
+
+**/node_modules
+
+**/volumes
+**/postgres_data
+**/tar
+./testpage.html
+**/export
